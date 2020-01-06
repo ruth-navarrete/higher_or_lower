@@ -1,5 +1,5 @@
 # higher_or_lower
- A guessing game where you have to guess whether or not the hidden card is higher or lower than the revealed card.
+ A guessing game where you have to guess whether or not the hidden number is higher or lower than the revealed number.
 
 Premise of the game is that the player will be given a number and based on that number, the user will guess whether the still hidden number is higher or lower than the first number.
 

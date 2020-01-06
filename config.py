@@ -20,6 +20,7 @@ Thank you for playing!
 INSTRUCTIONS:
 You are given one number
 Guess whether the second number will be higher or lower than this number
+You only get to guess once for each pair of numbers
 You will get random numbers ranging from 1 to 20
 ----Press [1] to guess the number is lower
 ----Press [2] to guess the number is higher
